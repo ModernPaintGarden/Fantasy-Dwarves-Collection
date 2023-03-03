@@ -93,7 +93,7 @@
 		"cost": 35,
 		"obsoleteTech": "Scientific Theory",
 		"upgradesTo": "Swordsman",
-		"uniques": ["Heals [30] damage if it kills a unit", "May capture killed [Non-air] units"]
+		"uniques": ["Heals [30] damage if it kills a unit", "May capture killed [non-air] units"]
 		"attackSound": "nonmetalhit"
 	},
 ]
