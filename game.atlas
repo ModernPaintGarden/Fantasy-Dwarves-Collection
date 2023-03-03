@@ -4,21 +4,21 @@ size: 512,128
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-BuildingIcons/Sich
+BuildingIcons/Mountain Palasades
   rotate: false
   xy: 104, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Ukraine
+NationIcons/The Dwarves
   rotate: false
   xy: 206, 2
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Cossacks
+UnitIcons/Dwarven Bowgun
   rotate: false
   xy: 2, 2
   size: 100, 100
