@@ -24,16 +24,15 @@
 		
 		"favoredReligion": "Christianity",
 		
-		"uniqueName": "Fertile Lands",
-		"uniques": ["Double quantity of [Wheat] produced",
-			    "Double quantity of [Iron] produced",
+		"uniqueName": "Masters of Stone and Metal",
+		"uniques": ["Double quantity of [Iron] produced",
 			    "Double quantity of [Coal] produced",
-			    "Double quantity of [Horses] produced"
+			    "New [Military] units start with [25] Experience"
 			   ],
 		"cities": [
 			"Great Mountain",
-			"Kharkiv",
-			"Dnipropetrovsk",
+			"Golden Forge",
+			"Sacred Alcove",
 			"Odesa",
 			"Donetsk",
 			"Zaporizhia",
