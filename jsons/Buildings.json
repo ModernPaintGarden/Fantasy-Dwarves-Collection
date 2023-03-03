@@ -4,6 +4,8 @@
 		"replaces": "Castle",
 		"cost": 200,
 		"uniqueTo": "The Dwarves",
+		"culture": 1,
+		"food": 1,
 		"cityStrength": 10,
 		"cityHealth": 75,
 		"hurryCostModifier": 50,
