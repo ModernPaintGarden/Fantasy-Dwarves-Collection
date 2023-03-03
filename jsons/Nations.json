@@ -81,24 +81,25 @@
 		
 		"outerColor": [38, 8, 29],
 		"innerColor": [232, 0, 77],
-		"favoredReligion": "Shinto",
+		"favoredReligion": "Hindu",
 		
 		"uniqueName": "Consume the land, flesh and water",
 		"uniques":  ["Earn [35]% of killed [Military] unit's [Strength] as [Culture]"
 			     "Earn [35]% of killed [Military] unit's [Strength] as [Science]"
 			     "Earn [35]% of killed [Military] unit's [Strength] as [Gold]"
 			     "[-30]% Culture cost of natural border growth [in all cities]"
-			     "Receive free [Settler] when you discover [Agriculture]"
-			     "Receive free [Settler] when you discover [Masonry]"
+			     "[+5 Happiness] from every [City ruins]"
+			     "Receive free [Settler] when you discover [Pottery]"
+			     "Receive free [Settler] when you discover [Mining]"
 			     "Receive free [Settler] when you discover [Sailing]"
-			     "[-1 Happiness] per [4] social policies adopted"
-			     "[-1 Culture] per [1] social policies adopted"
-			     "[-1 Science] per [1] social policies adopted"
+			     "[-1 Happiness] per [1] social policies adopted"
+			     "[-2 Culture] per [1] social policies adopted"
+			     "[-2 Science] per [1] social policies adopted"
 			     
 			   ],
 		"cities": [
-			"Depths", "Dying Land", "Tunnel of Skulls", "Swampdread", "Death Rock", "grunk", "River Styx", "Dasterdly Place", "Rasbery swamp", "Mariupol", "Luhansk",
-			"Makiivka", "Simferopol", "Vinnytsia", "Sevastopol", "Kherson", "Poltava", "Chernihiv", "Cherkasy", "Sumy", "Horlivka", "Zhytomyr", "Dniprodzerzhynsk",
+			"Depths", "Dying Land", "Tunnel of Skulls", "Swampdread", "Death Rock", "grunk", "River Styx", "Dasterdly Place", "Rasbery swamp", "Badlands", "Luhansk",
+			"Terror Cliffs", "The Pit", "Scarlet Death", "Sevastopol", "Kherson", "Poltava", "Chernihiv", "Cherkasy", "Sumy", "Horlivka", "Zhytomyr", "Dniprodzerzhynsk",
 			"Kirovohrad", "Chernivtsi", "Khmelnytskyi", "Rivne", "Ivano-Frankivsk", "Ternopil", "Kremenchuk", "Lutsk", "Bila Tserkva", "Kramatorsk",
 			"Melitopol", "Kerch", "Nikopol", "Lysychansk", "Berdyansk", "Pavlohrad", "Sloviansk"
 		],
