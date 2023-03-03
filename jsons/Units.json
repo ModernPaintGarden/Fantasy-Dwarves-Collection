@@ -29,12 +29,14 @@
 	},
 	{
 		"name": "Goblin",
-		"unitType": "Civilian",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 2,
 		"uniqueTo": "Orcs",
 		"replaces": "Worker",
-		"movement": 3,
-		"uniques": ["Can build [Land] improvements on tiles", "Can instantly construct a [Terrace Farm] improvement <by consuming this unit>"],
+		"uniques": ["Can build [Land] improvements on tiles", "[+400]% Strength <when defending>"],
 		"cost": 70
+		"attackSound": "nonmetalhit"
 	}, 
 	{
 		"name": "Stalker",
@@ -73,7 +75,7 @@
 		"uniqueTo": "Orcs",
 		"movement": 4,
 		"strength": 25,
-		"cost": 130,
+		"cost": 140,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
