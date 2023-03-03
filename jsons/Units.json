@@ -12,7 +12,19 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"uniques": ["+[30]% combat bonus in [Hills]"],
-		"promotions": ["Accuracy I"]
+		"promotions": ["Armor Plating III"]
 		"attackSound": "shot"
+	},
+	{
+		"name": "Dwarven Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Dwarves",
+		"replaces": "Warrior",
+		"movement": 1,
+		"strength": 6,
+		"cost": 60,
+		"promotions": ["Ignore terrain cost", "Armor Plating I", "Armor Plating II"],
+		"upgradesTo": "Swordsman",
+		"attackSound": "metalhit"
 	},
 ]
