@@ -28,8 +28,8 @@
 		"name": "Still Water Farm",
 		"replaces": "Water Mill",
 		"uniqueTo": "Orcs",
-		"food": 2,
-		"uniques": ["[+1 Food] from [Lakes] tiles [in this city]", "[+1 Food] from [Marsh] tiles [in this city]", "Earn [5]% of killed [Military] unit's [Strength] as [Culture]"],
+		"food": 1,
+		"uniques": ["[+1 Food] from [Lakes] tiles [in this city]", "[+1 Food] from [Marsh] tiles [in this city]"],
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"
