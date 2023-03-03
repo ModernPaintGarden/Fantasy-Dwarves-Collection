@@ -27,4 +27,58 @@
 		"upgradesTo": "Swordsman",
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Goblin",
+		"unitType": "Civilian",
+		"uniqueTo": "Orcs",
+		"replaces": "Worker",
+		"movement": 3,
+		"uniques": ["Can build [Land] improvements on tiles", "Can instantly construct a [Terrace Farm] improvement <by consuming this unit>"],
+		"cost": 70
+	}, 
+	{
+		"name": "Stalker",
+		"unitType": "Scout",
+		"Replaces": "Scout",
+		"UniqueTo": "Orcs",
+		"upgradesTo": "Spearman"
+		"movement": 2,
+		"strength": 6,
+		"cost": 35,
+		"obsoleteTech": "Scientific Theory",
+		"uniques": ["May upgrade to [Spearman] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"promotions": ["Ignore terrain cost", "[Jaguar] ability", "Quick Study"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Wolf Riders",
+		"unitType": "Mounted",
+		"uniqueTo": "Orcs",
+		"replaces": "Horseman",
+		"movement": 4,
+		"strength": 12,
+		"cost": 80,
+		"requiredTech": "Horseback Riding",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["[Jaguar] ability", "Wolfpack I"],
+		"uniques": ["[-22]% Strength <vs cities> <when attacking>"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Dire Wolf Riders",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Orcs",
+		"movement": 4,
+		"strength": 25,
+		"cost": 130,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"promotions": ["[Jaguar] ability", "Wolfpack I", "Wolfpack II"],
+		"uniques": ["[-33]% Strength <vs cities> <when attacking>"],
+		"attackSound": "nonmetalhit"
+	},
 ]
