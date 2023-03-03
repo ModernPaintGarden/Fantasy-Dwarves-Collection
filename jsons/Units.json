@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Dwarven Bowgunner",
+		"name": "Dwarven Bowgun",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "The Dwarves",
