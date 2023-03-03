@@ -3,7 +3,7 @@
 		"name": "Dwarven Bowgun",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
-		"uniqueTo": "The Dwarves",
+		"uniqueTo": "Dwarves",
 		"movement": 1,
 		"strength": 37,
 		"cost": 220,
