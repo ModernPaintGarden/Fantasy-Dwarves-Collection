@@ -19,8 +19,8 @@
 		"hateHello": "You again! What did you want?",
 		"tradeRequest": "Well, how is my proposal to you?",
 		
-		"outerColor": [0,0,255],
-		"innerColor": [255,255,0],
+		"outerColor": [126, 122, 118],
+		"innerColor": [137, 100, 56],
 		
 		"favoredReligion": "Christianity",
 		
@@ -31,7 +31,7 @@
 			    "Double quantity of [Horses] produced"
 			   ],
 		"cities": [
-			"Kyiv",
+			"Great Mountain",
 			"Kharkiv",
 			"Dnipropetrovsk",
 			"Odesa",
