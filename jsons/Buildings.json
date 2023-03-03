@@ -3,7 +3,7 @@
 		"name": "Mountain Palasades",
 		"replaces": "Castle",
 		"cost": 200,
-		"uniqueTo": "The Dwarves",
+		"uniqueTo": "Dwarves",
 		"culture": 1,
 		"food": 1,
 		"cityStrength": 10,
