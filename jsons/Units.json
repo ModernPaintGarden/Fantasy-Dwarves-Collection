@@ -42,7 +42,7 @@
 		"name": "Stalker",
 		"unitType": "Scout",
 		"Replaces": "Scout",
-		"UniqueTo": "Orcs",
+		"uniqueTo": "Orcs",
 		"upgradesTo": "Spearman"
 		"movement": 2,
 		"strength": 6,
