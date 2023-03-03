@@ -3,25 +3,20 @@
 		"name": "Dwarves",
 		"leaderName": "Forge Master",
 		"adjective": ["Dwarven"],
-		
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Scientific",
-		
 		"startIntroPart1": "Hail to you",
-		"startIntroPart2": "yo",
-		
+		"startIntroPart2": "Begin",
 		"declaringWar": "Your lands will soon be mine, prepare for war!",
 		"attacked": "Have you declared war on us? This was a huge mistake on your part, prepare to be destroyed!",
 		"defeated": "You have destroyed our once great civilization. History will not look kindly upon you.",
 		"introduction": "Greetings, stranger! I am Forge Master of the Dwarves. Gaze in awe on the majesty that is our great civilization!",
-		
 		"neutralHello": "Hello!",
 		"hateHello": "You again! What did you want?",
 		"tradeRequest": "Well, how is my proposal to you?",
 		
 		"outerColor": [126, 122, 118],
 		"innerColor": [137, 100, 56],
-		
 		"favoredReligion": "Christianity",
 		
 		"uniqueName": "Masters of Stone and Metal",
@@ -29,49 +24,43 @@
 			    "[+1 Production] Per [4] Population",
 			    "[+1 Food, +1 Happiness, +1 Culture, +1 Production] from every [Mountain]"
 			    "Provides [1] [Iron]"
-			    "All newly-trained [non-air] units [in all cities] receive the [Survivalism III] promotion"
 			   ],
 		"cities": [
-			"Great Mountain",
-			"Golden Forge",
-			"Sacred Alcove",
-			"Odesa",
-			"Donetsk",
-			"Zaporizhia",
-			"Lviv",
-			"Kryvyi Rih",
-			"Mykolaiv",
-			"Mariupol",
-			"Luhansk",
-			"Makiivka",
-			"Simferopol",
-			"Vinnytsia",
-			"Sevastopol",
-			"Kherson",
-			"Poltava",
-			"Chernihiv",
-			"Cherkasy",
-			"Sumy",
-			"Horlivka",
-			"Zhytomyr",
-			"Dniprodzerzhynsk",
-			"Kirovohrad",
-			"Chernivtsi",
-			"Khmelnytskyi",
-			"Rivne",
-			"Ivano-Frankivsk",
-			"Ternopil",
-			"Kremenchuk",
-			"Lutsk",
-			"Bila Tserkva",
-			"Kramatorsk",
-			"Melitopol",
-			"Kerch",
-			"Nikopol",
-			"Lysychansk",
-			"Berdyansk",
-			"Pavlohrad",
-			"Sloviansk"
+			"Great Mountain", "Golden Forge", "Sacred Alcove", "Odesa", "Donetsk", "Zaporizhia", "Lviv", "Kryvyi Rih", "Mykolaiv", "Mariupol", "Luhansk",
+			"Makiivka", "Simferopol", "Vinnytsia", "Sevastopol", "Kherson", "Poltava", "Chernihiv", "Cherkasy", "Sumy", "Horlivka", "Zhytomyr", "Dniprodzerzhynsk",
+			"Kirovohrad", "Chernivtsi", "Khmelnytskyi", "Rivne", "Ivano-Frankivsk", "Ternopil", "Kremenchuk", "Lutsk", "Bila Tserkva", "Kramatorsk",
+			"Melitopol", "Kerch", "Nikopol", "Lysychansk", "Berdyansk", "Pavlohrad", "Sloviansk"
+		],
+	},
+	{
+		"name": "Orcs",
+		"leaderName": "Chief Queen",
+		"adjective": ["Orc"],
+		"startBias": ["Marsh"],
+		"preferredVictoryType": "Cultural",
+		"startIntroPart1": "GREETINGS!",
+		"startIntroPart2": "BEGIN!",
+		"declaringWar": "Your lands will soon be mine, prepare for war!",
+		"attacked": "Have you declared war on us? This was a huge mistake on your part, prepare to be destroyed!",
+		"defeated": "You have destroyed our once great civilization. History will not look kindly upon you.",
+		"introduction": "Greetings, stranger! I am Chief Queen of Orcs. Gaze in awe on the majesty that is our great civilization!",
+		"neutralHello": "Hello!",
+		"hateHello": "You again! What did you want?",
+		"tradeRequest": "Well, how is my proposal to you?",
+		
+		"outerColor": [22, 167, 38],
+		"innerColor": [190, 36, 8],
+		"favoredReligion": "Shinto",
+		
+		"uniqueName": "The Universal Tribe",
+		"uniques":  ["[+1 Food] Per [6] Population",
+			    "[+4 Food, +1 Happiness, +1 Culture] from every [Marsh]"
+			   ],
+		"cities": [
+			"Sacred Birthing Ground", "Grasstic", "Orctosh", "Swamplands", "Dry Rock", "Mighty Trunk", "Wetbeastland", "Dog Town", "Greenswamp", "Mariupol", "Luhansk",
+			"Makiivka", "Simferopol", "Vinnytsia", "Sevastopol", "Kherson", "Poltava", "Chernihiv", "Cherkasy", "Sumy", "Horlivka", "Zhytomyr", "Dniprodzerzhynsk",
+			"Kirovohrad", "Chernivtsi", "Khmelnytskyi", "Rivne", "Ivano-Frankivsk", "Ternopil", "Kremenchuk", "Lutsk", "Bila Tserkva", "Kramatorsk",
+			"Melitopol", "Kerch", "Nikopol", "Lysychansk", "Berdyansk", "Pavlohrad", "Sloviansk"
 		],
 	},
 ]
