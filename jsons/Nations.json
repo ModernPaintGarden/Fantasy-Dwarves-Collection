@@ -4,7 +4,7 @@
 		"leaderName": "Forge Master",
 		"adjective": ["Dwarven"],
 		
-		"startBias": ["Mountain", "Avoid [Coast]"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Hail to you",
