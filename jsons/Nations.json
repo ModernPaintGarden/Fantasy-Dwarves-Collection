@@ -27,7 +27,8 @@
 		"uniqueName": "Masters of Stone and Metal",
 		"uniques": ["Double quantity of [Iron] produced",
 			    "[+1 Production] Per [2] Population",
-			    "[+1 Food, +1 Happiness, +1 Culture, +1 Production, +1 Iron] from every [Mountain]"
+			    "[+1 Food, +1 Happiness, +1 Culture, +1 Production] from every [Mountain]"
+			    "[Mountain] tiles provide [1] [Iron]"
 			    "New [Military] units recieve the [Survivalism III] promotion"
 			   ],
 		"cities": [
