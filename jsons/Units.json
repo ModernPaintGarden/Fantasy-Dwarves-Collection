@@ -5,7 +5,7 @@
 		"replaces": "Musketman",
 		"uniqueTo": "Dwarves",
 		"movement": 1,
-		"strength": 37,
+		"strength": 29,
 		"cost": 240,
 		"requiredResource": "Iron"
 		"requiredTech": "Gunpowder",
@@ -21,7 +21,7 @@
 		"uniqueTo": "Dwarves",
 		"replaces": "Warrior",
 		"movement": 1,
-		"strength": 6,
+		"strength": 7,
 		"cost": 60,
 		"promotions": ["Ignore terrain cost", "Armor Plating I", "Armor Plating II"],
 		"upgradesTo": "Swordsman",
