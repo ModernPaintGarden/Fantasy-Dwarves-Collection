@@ -6,11 +6,13 @@
 		"uniqueTo": "Dwarves",
 		"movement": 1,
 		"strength": 37,
-		"cost": 220,
+		"cost": 240,
+		"requiredResource": "Iron"
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"uniques": ["+[30]% combat bonus in [Hills]"],
+		"promotions": ["Accuracy I"]
 		"attackSound": "shot"
 	},
 ]
