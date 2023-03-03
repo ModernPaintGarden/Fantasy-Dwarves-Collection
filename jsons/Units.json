@@ -83,4 +83,17 @@
 		"uniques": ["[-33]% Strength <vs cities> <when attacking>"],
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Shadow Spawn",
+		"unitType": "Sword",
+		"uniqueTo": "The Corruption",
+		"replaces": "Warrior",
+		"movement": 3,
+		"strength": 6,
+		"cost": 35,
+		"obsoleteTech": "Scientific Theory",
+		"upgradesTo": "Swordsman",
+		"uniques": ["Heals [30] damage if it kills a unit", "May capture killed [Non-air] units"]
+		"attackSound": "nonmetalhit"
+	},
 ]
