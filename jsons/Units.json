@@ -16,7 +16,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Dwarven Warrior",
+		"name": "Axe Dwarf",
 		"unitType": "Sword",
 		"uniqueTo": "Dwarves",
 		"replaces": "Warrior",
