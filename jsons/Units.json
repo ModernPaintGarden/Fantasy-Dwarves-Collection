@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Cossacks",
+		"name": "Dwarven Bowgunner",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
-		"uniqueTo": "Ukraine",
-		"movement": 2,
-		"strength": 35,
-		"cost": 200,
+		"uniqueTo": "The Dwarves",
+		"movement": 1,
+		"strength": 37,
+		"cost": 220,
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
-		"uniques": ["+[25]% combat bonus in [Grassland]","+[25]% combat bonus in [Forest]","+[25]% combat bonus in [Plains]"],
+		"uniques": ["+[30]% combat bonus in [Hills]"],
 		"attackSound": "shot"
 	},
 ]
