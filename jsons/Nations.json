@@ -26,7 +26,7 @@
 		
 		"uniqueName": "Masters of Stone and Metal",
 		"uniques": ["Double quantity of [Iron] produced",
-			    "Double quantity of [Coal] produced",
+			    "[+1 Production] Per [2] Population",
 			    "New [Military] units start with [25] Experience"
 			   ],
 		"cities": [
