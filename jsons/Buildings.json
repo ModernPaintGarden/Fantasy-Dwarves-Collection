@@ -12,5 +12,17 @@
 		"requiredBuilding": "Walls",
 		"requiredTech": "Chivalry",
 	},
+	{
+		"name": "The Most Beautiful Mountain",
+		"uniqueTo": "Dwarves"
+		"cost": 600
+		"food": 5,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"culture": 1,
+		"isWonder": true,
+		"uniques": ["[+25]% [Culture] from Trade Routes","Must have an owned [Mountain] within [2] tiles"],
+		"requiredTech": "Philosophy",
+		"quote": "'The greatest of all peaks, the highest of all the land, and the deepest in all the earth.' - Forge Master"
+	},
 ]
 		
