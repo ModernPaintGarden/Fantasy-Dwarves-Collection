@@ -45,5 +45,17 @@
 		"uniques": ["Requires a [Monument] in all cities", "Cost increases by [20] per owned city", "[10]% of excess happiness converted to [Faith]"],
 		"requiredTech": "Drama and Poetry"
 	},
+{
+		"name": "Magitech Workshop",
+		"replaces": "National Epic",
+		"uniqueTo": "Solarium Empire",
+		"cost": 300,
+		"production": 1,
+		"happiness": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Monument] in all cities", "Cost increases by [20] per owned city", "[5]% of excess happiness converted to [Science]"
+			   "Provides [1] [Flare Antenna]", "Provides [1] [Magitech Engine]"],
+		"requiredTech": "Education"
+	},
 ]
 		
