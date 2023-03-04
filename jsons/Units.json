@@ -100,7 +100,7 @@
 		"name": "Magitech Walker",
 		"replaces": "Giant Death Robot",
 		"uniqueTo": "Solarium Empire",
-		"unitType": ["Armored"]
+		"unitType": ["Armored"], 
 		"movement": 1,
 		"strength": 30,
 		"cost": 400,
