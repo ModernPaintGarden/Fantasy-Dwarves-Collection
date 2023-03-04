@@ -8,4 +8,13 @@
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
 	},
+	{
+		"name": "Flare Antenna",
+		"resourceType": "Strategic",
+		"revealedBy": "Agriculture",
+    "terrainsCanBeFoundOn": ["Snow"],
+		"production": 1,
+		"improvement": "Mine",
+		"improvementStats": {"production": 1},
+	},
 ]
