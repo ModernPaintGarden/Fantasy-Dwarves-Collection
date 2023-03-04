@@ -13,4 +13,20 @@
             "Pillaging this improvement yields approximately [+1 Gold]"],
 		"techRequired": "Construction",
 	},
+	{
+		"name": "Aur Tower",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniqueTo": "Solarium Empire",
+		"turnsToBuild": 15,
+		"culture": 1,
+		"happiness": 1,
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [50]%",
+			"Adjacent enemy units ending their turn take [20] damage",
+			"Can be built just outside your borders",
+        	"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Removes removable features when built",
+		]
+	},
 ]
