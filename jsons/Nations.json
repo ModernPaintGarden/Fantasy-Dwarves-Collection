@@ -138,37 +138,3 @@
 			"Melitopol", "Kerch", "Nikopol", "Lysychansk", "Berdyansk", "Pavlohrad", "Sloviansk"
 		],
 	},
-{
-		"name": "Solarium Empire",
-		"leaderName": "Heirophant",
-		"adjective": ["Solarian"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Scientific",
-		"startIntroPart1": "Hailing from a distant world much closer to their sun, this advanced alien race takes mana directly from the stars they worship to fuel their magitech engines.",
-		"startIntroPart2": "A single crashed colony shio, you must now attempt to thrive on this planet. either re-establish contact with your Empire, or conquer this world in poetry or plasma. ",
-		"declaringWar": "Your lands will soon be mine, prepare for war!",
-		"attacked": "Have you declared war on us? This was a huge mistake on your part, prepare to be destroyed!",
-		"defeated": "You have destroyed our once great civilization. History will not look kindly upon you.",
-		"introduction": "Greetings, stranger! I am Heirophant. Gaze in awe on the majesty that is our great civilization!",
-		"neutralHello": "Hello!",
-		"hateHello": "You again! What did you want?",
-		"tradeRequest": "Well, how is my proposal to you?",
-		
-		"outerColor": [248, 60, 10],
-		"innerColor": [247, 220, 10],
-		"favoredReligion": "Christianity",
-		
-		"uniqueName": "Brilliant Power from Beyond the Stars",
-		"uniques": "[+10]% Culture cost of natural border growth [in all cities]",
-				"[+1 Happiness] from every [Strategic resource]",
-				"[-50]% Unhappiness from [Population] [in all cities]",
-				"Provides [1] [Iron]"
-			     
-			   ],
-		"cities": [
-			"Depths", "Dying Land", "Tunnel of Skulls", "Swampdread", "Death Rock", "grunk", "River Styx", "Dasterdly Place", "Rasbery swamp", "Badlands", "Luhansk",
-			"Terror Cliffs", "The Pit", "Scarlet Death", "Severspool", "Kherson", "Poltava", "Chernihiv", "Cherkasy", "Sumy", "Horlivka", "Zhytomyr", "Dniprodzerzhynsk",
-			"Kirovohrad", "Chernivtsi", "Khmelnytskyi", "Rivne", "Ivano-Frankivsk", "Ternopil", "Kremenchuk", "Lutsk", "Bila Tserkva", "Kramatorsk",
-			"Melitopol", "Kerch", "Nikopol", "Lysychansk", "Berdyansk", "Pavlohrad", "Sloviansk"
-		],
-]
