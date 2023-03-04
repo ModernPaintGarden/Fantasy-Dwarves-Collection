@@ -1,3 +1,4 @@
+[
 {
 		"name": "Magitech Engine",
 		"resourceType": "Strategic",
@@ -7,3 +8,4 @@
 		"improvement": "Mine",
 		"improvementStats": {"production": 1},
 	},
+]
