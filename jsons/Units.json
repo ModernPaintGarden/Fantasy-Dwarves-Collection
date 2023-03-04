@@ -103,7 +103,7 @@
 		"unitType": "Helicopter",
 		"movement": 1,
 		"strength": 25,
-		"cost": 450,
+		"cost": 1,
 		"requiredTech": "Agriculture",
 		"requiredResource": "Magitech Engine",
 		"promotions": ["Haka War Dance"],
