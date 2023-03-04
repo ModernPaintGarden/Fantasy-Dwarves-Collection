@@ -104,7 +104,7 @@
 		"movement": 1,
 		"strength": 30,
 		"cost": 400,
-		"uniques": ["No defensive terrain bonus", "Can carry [2] [Aircraft] units", "Can build [Land] improvements on tiles", "Cannot enter ocean tiles", "[+1] Sight"],
+		"uniques": ["No defensive terrain bonus", "Can build [Land] improvements on tiles", "Cannot enter ocean tiles", "[+1] Sight"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "gdrAttack"
 	},
