@@ -100,7 +100,7 @@
 		"name": "Magitech Walker",
 		"replaces": "Giant Death Robot",
 		"uniqueTo": "Solarium Empire",
-		"unitType": ["Armored", "Aircraft Carrier"]
+		"unitType": ["Armored"]
 		"movement": 1,
 		"strength": 30,
 		"cost": 400,
@@ -110,5 +110,4 @@
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "gdrAttack"
 	},
-
 ]
