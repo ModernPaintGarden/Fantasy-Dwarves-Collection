@@ -34,5 +34,16 @@
 		"percentStatBonus": {"food": 15},
 		"requiredTech": "The Wheel"
 	},
+	{
+		"name": "Grand Prophecy",
+		"replaces": "National Epic",
+		"uniqueTo": "The Corruption",
+		"cost": 200,
+		"culture": 1,
+		"happiness": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Monument] in all cities", "Cost increases by [20] per owned city", "[10]% of excess happiness converted to [Faith]"],
+		"requiredTech": "Drama and Poetry"
+	},
 ]
 		
