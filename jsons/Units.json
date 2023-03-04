@@ -96,4 +96,18 @@
 		"uniques": ["Heals [30] damage if it kills a unit", "May capture killed [non-air] units"],
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Magitech Walker",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "Solarium Empire",
+		"unitType": ["Armored", "Aircraft Carrier"]
+		"movement": 1,
+		"strength": 30,
+		"cost": 400,
+		"requiredTech": "Agriculture",
+		"requiredResource": "Magitech Engine",
+		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Can carry [2] [Aircraft] units", "Can build [Land] improvements on tiles", "Cannot enter ocean tiles", "[+1] Sight"],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "gdrAttack"
+	},
 ]
