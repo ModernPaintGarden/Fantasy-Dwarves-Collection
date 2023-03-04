@@ -125,8 +125,21 @@
 		"requiredResource": "Magitech Engine",
 		"promotions": ["Haka War Dance"],
 		"uniques": ["No defensive terrain bonus", "[+1] Sight", "Can see over obstacles", "All tiles cost 1 movement", "Unable to capture cities", 
-			    "Can build [Land] improvements on tiles", "[+35]% Strength <when defending>", "Can build [Aur Tower] improvements on tiles"],
+			    "Can build [Land] improvements on tiles", "[+35]% Strength <when defending>", "Can build [Aur Tower] improvements on tiles"
+			    "Can build [SOS Signal] improvements on tiles"],
 		"attackSound": "gdrAttack"
+	},
+	{
+		"name": "Star Citizen",
+		"unitType": "Sword",
+		"uniqueTo": "Solarium Empire",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 7,
+		"promotions": ["Morale", "Quick Study", "Home Sweet Home", "Armor Plating I"],
+		"uniques": ["Unbuildable"]
+		"upgradesTo": "Swordsman",
+		"attackSound": "shot"
 	},
 	
 ]
