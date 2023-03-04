@@ -135,7 +135,8 @@
 		"uniqueTo": "Solarium Empire",
 		"replaces": "Warrior",
 		"movement": 2,
-		"strength": 7,
+		"strength": 6,
+		"requiredResource": "Flare Antenna",
 		"promotions": ["Morale", "Quick Study", "Home Sweet Home", "Armor Plating I"],
 		"uniques": ["Unbuildable"]
 		"upgradesTo": "Swordsman",
