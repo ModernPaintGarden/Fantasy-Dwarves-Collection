@@ -35,6 +35,6 @@
 	"uniqueTo": "Solarium Empire",
         "terrainsCanBeBuiltOn": ["Land"],
         "turnsToBuild": 30,
-        "uniques": ["Free [Worker] appears"],
+        "uniques": ["Free [Star Citizen] appears"],
     },
 ]
