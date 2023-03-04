@@ -126,7 +126,7 @@
 		"favoredReligion": "Christianity",
 		
 		"uniqueName": "Brilliant Power from Beyond the Stars",
-		"uniques": "[+10]% Culture cost of natural border growth [in all cities]",
+		"uniques": ["[+10]% Culture cost of natural border growth [in all cities]",
 				"[+1 Happiness] from every [Strategic resource]",
 				"[-50]% Unhappiness from [Population] [in all cities]",
 				"Provides [1] [Iron]",
