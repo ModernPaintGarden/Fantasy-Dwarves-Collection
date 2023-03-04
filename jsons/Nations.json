@@ -21,12 +21,13 @@
 		
 		"uniqueName": "Masters of Stone and Metal",
 		"uniques": ["Double quantity of [Iron] produced",
-			    "[+1 Production] Per [4] Population",
+			    "[+1 Production] Per [5] Population",
 			    "[+1 Food, +1 Happiness, +1 Culture, +1 Production] from every [Mountain]"
 			    "Provides [1] [Iron]"
+			    "All newly-trained [non-air] units [in the captial] receive the [Home Sweet Home] promotion"
 			   ],
 		"cities": [
-			"Great Mountain", "Golden Forge", "Sacred Alcove", "Odesa", "Donetsk", "Zaporizhia", "Lviv", "Kryvyi Rih", "Mykolaiv", "Mariupol", "Luhansk",
+			"Great Mountain", "Golden Forge", "Sacred Alcove", "Odesa", "Tower Mountain", "Regal Hill", "Anvil", "Hammerton", "Axetown", "Cool Nameville", "Luhansk",
 			"Makiivka", "Simferopol", "Vinnytsia", "Sevastopol", "Kherson", "Poltava", "Chernihiv", "Cherkasy", "Sumy", "Horlivka", "Zhytomyr", "Dniprodzerzhynsk",
 			"Kirovohrad", "Chernivtsi", "Khmelnytskyi", "Rivne", "Ivano-Frankivsk", "Ternopil", "Kremenchuk", "Lutsk", "Bila Tserkva", "Kramatorsk",
 			"Melitopol", "Kerch", "Nikopol", "Lysychansk", "Berdyansk", "Pavlohrad", "Sloviansk"
@@ -99,7 +100,7 @@
 			   ],
 		"cities": [
 			"Depths", "Dying Land", "Tunnel of Skulls", "Swampdread", "Death Rock", "grunk", "River Styx", "Dasterdly Place", "Rasbery swamp", "Badlands", "Luhansk",
-			"Terror Cliffs", "The Pit", "Scarlet Death", "Sevastopol", "Kherson", "Poltava", "Chernihiv", "Cherkasy", "Sumy", "Horlivka", "Zhytomyr", "Dniprodzerzhynsk",
+			"Terror Cliffs", "The Pit", "Scarlet Death", "Severspool", "Kherson", "Poltava", "Chernihiv", "Cherkasy", "Sumy", "Horlivka", "Zhytomyr", "Dniprodzerzhynsk",
 			"Kirovohrad", "Chernivtsi", "Khmelnytskyi", "Rivne", "Ivano-Frankivsk", "Ternopil", "Kremenchuk", "Lutsk", "Bila Tserkva", "Kramatorsk",
 			"Melitopol", "Kerch", "Nikopol", "Lysychansk", "Berdyansk", "Pavlohrad", "Sloviansk"
 		],
