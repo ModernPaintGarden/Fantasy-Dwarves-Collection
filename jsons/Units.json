@@ -96,4 +96,17 @@
 		"uniques": ["Heals [30] damage if it kills a unit", "May capture killed [non-air] units"],
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Giant Death Robot",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "Solarium Empire",
+		"unitType": "Armored",
+		"movement": 1,
+		"strength": 30,
+		"cost": 400,
+		"requiredTech": "Mining",
+		"requiredResource": "Magitech Engine",
+		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
 ]
