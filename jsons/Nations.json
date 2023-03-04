@@ -129,7 +129,7 @@
 		"uniques": "[+10]% Culture cost of natural border growth [in all cities]",
 				"[+1 Happiness] from every [Strategic resource]",
 				"[-50]% Unhappiness from [Population] [in all cities]",
-				"Provides [1] [Iron]"
+				"Provides [1] [Iron]",
 		],
 		"cities": [
 			"Depths", "Dying Land", "Tunnel of Skulls", "Swampdread", "Death Rock", "grunk", "River Styx", "Dasterdly Place", "Rasbery swamp", "Badlands", "Luhansk",
