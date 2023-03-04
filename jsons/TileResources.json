@@ -1,0 +1,9 @@
+{
+		"name": "Magitech Engine",
+		"resourceType": "Strategic",
+		"revealedBy": "Agriculture",
+    "terrainsCanBeFoundOn": ["Snow"],
+		"production": 1,
+		"improvement": "Mine",
+		"improvementStats": {"production": 1},
+	},
