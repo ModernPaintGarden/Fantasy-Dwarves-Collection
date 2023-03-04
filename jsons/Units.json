@@ -97,16 +97,16 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Giant Death Robot",
+		"name": "Magitech Walker",
 		"replaces": "Giant Death Robot",
 		"uniqueTo": "Solarium Empire",
 		"unitType": "Armored",
 		"movement": 1,
 		"strength": 30,
 		"cost": 400,
-		"requiredTech": "Mining",
+		"requiredTech": "Agriculture",
 		"requiredResource": "Magitech Engine",
-		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["No defensive terrain bonus", "[+1] Sight", "Can see over obstacles", "All tiles cost 1 movement", "Unable to capture cities"],
 		"attackSound": "gdrAttack"
 	},
 ]
