@@ -109,7 +109,7 @@
 		"promotions": ["Haka War Dance"],
 		"uniques": ["No defensive terrain bonus", "[+1] Sight", "Can see over obstacles", "All tiles cost 1 movement", "Unable to capture cities", 
 			    "Can build [Land] improvements on tiles", "[+30]% Strength <when defending>",
-			   "[+1] Strength per [1] techs"
+			   "[+1] strength per [1] techs discovered"
 			   ],
 		"attackSound": "gdrAttack"
 	},
