@@ -128,8 +128,9 @@
 		"uniqueName": "Brilliant Power from Beyond the Stars",
 		"uniques": ["[+10]% Culture cost of natural border growth [in all cities]",
 				"[+1 Happiness] from every [Strategic resource]",
-				"[+50]% Unhappiness from [Population] [in all cities]",
+				"[+80]% Unhappiness from [Population] [in all cities]",
 				"Provides [1] [Magitech Engine]",
+			    	"Provides [1] [Flare Antenna]"
 			],
 		"cities": [
 			"Colony One", "Colony Two", "Colony Three", "Colony Four", "Colony Five", "Colony Alpha", "Colony Beta", "Colony Six", "Colony Seven", "Colony Eight", "Colony Nine",
