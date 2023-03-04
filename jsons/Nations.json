@@ -24,7 +24,7 @@
 			    "[+1 Production] Per [5] Population",
 			    "[+1 Food, +1 Happiness, +1 Culture, +1 Production] from every [Mountain]"
 			    "Provides [1] [Iron]"
-			    "All newly-trained [non-air] units [in capital] receive the [Home Sweet Home] promotion"
+			    "All newly-trained units [in capital] receive the [Home Sweet Home] promotion"
 			   ],
 		"cities": [
 			"Great Mountain", "Golden Forge", "Sacred Alcove", "Odesa", "Tower Mountain", "Regal Hill", "Anvil", "Hammerton", "Axetown", "Cool Nameville", "Luhansk",
@@ -82,7 +82,7 @@
 		
 		"outerColor": [38, 8, 29],
 		"innerColor": [232, 0, 77],
-		"favoredReligion": "Hindu",
+		"favoredReligion": "Hinduism",
 		
 		"uniqueName": "Consume the land, flesh and water",
 		"uniques":  ["Earn [35]% of killed [Military] unit's [Strength] as [Culture]"
